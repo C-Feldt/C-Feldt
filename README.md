@@ -34,6 +34,15 @@ I'm an undergraduate at Louisiana State University studying Computer Science! I'
 
 ---
 
+### 💻 My GitHub Pages
+
+#### This is a collection of some of my projects hosted on GitHub Pages. Some of them may not have full functionality due to the hosting style of Pages and the fact that some projects use serial communication, but it can give a brief look into my projects.
+
+* [Attack of the Fronks (C-Feldt/BugSquishProject)](https://c-feldt.github.io/BugSquishProject/)
+
+---
+
 <details>
-  <summary><h3>📖 My Coding Story<h3></summary>
+  <summary><h3>📖 My Coding Story</h3></summary>
     When I was a kid, I loved Legos. Not just the sets with specific instructions, but also the boxes of whatever random pieces they had lying around. I always felt so happy to put together a cool new creation. Fast forward a few years to when Santa Clause gifted me a Wii (I was very good that year, what can I say?), I discovered another one of my passions: video games! Though it wasn't until high school that these two interests really mixed together. I took AP Computer Science out of curiosity and was hooked from my very first "Hello World!" I enrolled at LSU in Computer Science with a focus on Software Engineering hoping it wouldn't be too difficult to manage, but even though some classes have made me question my sanity, I've only grown to love this field even more. Every new project feels like putting more Legos together to make another big creation. I've begun experimenting with game development and am looking to gain professional experience in the industry as the next step in my career. Soon, you'll see my name on the credits screen!
+</details>
