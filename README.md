@@ -32,7 +32,7 @@ I'm an undergraduate at Louisiana State University where I'm studying Computer S
 
 This is a very non-comprehensive list of some of the things I've worked on:
 
-* [Attack of the Fronks](https://c-feldt.github.io/BugSquishProject/): A game where you try to squish as many Fronks in as little time as possible. Developed for the course CSC2463. (This is currently experiencing audio issues along with the other Tone.js dependent projects due to browser updates, though I haven't pushed an update for this in a while so I don't plan to fix this anytime soon)
+* [Attack of the Fronks](https://c-feldt.github.io/BugSquishProject/): My first game! Try to squish as many Fronks as you can in as little time as possible. Developed for the course CSC2463. (This is currently experiencing audio issues along with the other Tone.js dependent projects due to browser updates, though I haven't pushed an update for this in a while so I don't plan to fix this anytime soon)
 * TypeFrog - A typing training website. I'm currently working on this in one of my classes in a group and thus cannot make it public just yet.
 
 ---
