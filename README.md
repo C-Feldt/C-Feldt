@@ -1,6 +1,6 @@
 # 🧙 Calvin Feldt
 
-**`Web Designer & Novice Game Developer`**
+**`Web Designer & Game Developer`**
 
 I'm an undergraduate at Louisiana State University where I'm studying Computer Science. I've worked professionally, independently, and with fellow students to produce and improve web applications, where my primary role was as a front-end designer. I've gained experience in a variety of programming languages and can learn new ones quickly. Many of my projects here were developed for courses, while some of them were also independently produced.
 
