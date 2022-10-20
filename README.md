@@ -28,18 +28,18 @@ I'm an undergraduate at Louisiana State University studying Computer Science! I'
 
 ---
 
-### 📊 Stats
-
-![Calvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-feldt&show_icons=true&theme=midnight-purple)
-
----
-
 ### 💻 My Projects
 
 This is a very non-comprehensive list of some of the things I've worked on:
 
-* [Attack of the Fronks](https://c-feldt.github.io/BugSquishProject/): A game where you try to squish as many Fronks in as little time as possible. Developed for the course CSC2463. (This is currently experiencing issues along with the other Tone.js dependent projects due to browser updates, though I haven't pushed an update for this in a while so I don't plan to fix this anytime soon)
+* [Attack of the Fronks](https://c-feldt.github.io/BugSquishProject/): A game where you try to squish as many Fronks in as little time as possible. Developed for the course CSC2463. (This is currently experiencing audio issues along with the other Tone.js dependent projects due to browser updates, though I haven't pushed an update for this in a while so I don't plan to fix this anytime soon)
 * TypeFrog - A typing training website. I'm currently working on this in one of my classes in a group and thus cannot make it public just yet.
+
+---
+
+### 📊 Stats
+
+![Calvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-feldt&show_icons=true&theme=midnight-purple)
 
 ---
 
