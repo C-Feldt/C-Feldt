@@ -32,9 +32,9 @@ I'm an undergraduate at Louisiana State University where I'm studying Computer S
 
 This is a very non-comprehensive list of some of the things I've worked on:
 
-* [Attack of the Fronks](https://c-feldt.github.io/BugSquishProject/) - My first game! Try to squish as many Fronks as you can in as little time as possible. Developed for the course CSC2463. (This is currently experiencing audio issues along with the other Tone.js dependent projects)
 * [TypeFrog](https://www.typefrog.xyz/) - This website is for practicing your typing skills. TypeFrog allows users to upload their own prompts for customized practice and exciting sessions. I worked primarily as the front-end designer for the website, creating the themeing and formatting for most pages.
 * [Bird Bounce](https://play.unity.com/mg/other/birdbouncebuildwebgl) - My first Unity project, which is just a simple Flappy Bird inspired game. Spacebar to jump.
+* [Attack of the Fronks](https://c-feldt.github.io/BugSquishProject/) - My first game! Try to squish as many Fronks as you can in as little time as possible. Developed for the course CSC2463. (This is currently experiencing audio issues along with the other Tone.js dependent projects)
 
 ---
 
