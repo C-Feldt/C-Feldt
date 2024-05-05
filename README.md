@@ -39,12 +39,6 @@ This is a very non-comprehensive list of some of the things I've worked on:
 
 ---
 
-### 📊 Stats
-
-![Calvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-feldt&show_icons=true&theme=midnight-purple)
-
----
-
 <details>
   <summary><h3>📖 My Coding Story</h3></summary>
     When I was a kid, I loved Lego. Not just the sets with specific instructions, but also the boxes of whatever random pieces they had lying around. I always felt super excited to put together a cool new creation. Fast forward a few years to when Santa Clause gifted me a Wii (I was very good that year, what can I say?), I discovered another one of my passions: video games! Though it wasn't until high school that these two interests really mixed together. I took AP Computer Science out of curiosity and was hooked from my very first "Hello World!" I enrolled at LSU in Computer Science with a focus on Software Engineering hoping it wouldn't be too difficult to manage, but even though some classes have made me question my sanity, I've only grown to love this field even more. Every new project feels like putting more Lego bricks together to craft another creation. Driven by my passion for games and creation, I've begun experimenting with video game development and am looking to gain professional experience in the industry as the next step in my career. Soon, you'll see my name on the credits screen!
